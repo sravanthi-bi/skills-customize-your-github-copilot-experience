@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlalchemy",
+      "title": "Database Integration with SQLAlchemy and FastAPI",
+      "description": "Integrate SQLite databases into your FastAPI application using SQLAlchemy ORM. Learn database models, CRUD operations, relationships, and migrations.",
+      "path": "assignments/fastapi-sqlalchemy",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
